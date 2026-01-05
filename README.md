@@ -2,7 +2,7 @@
 
 This repository contains Python programs from beginner to advanced level, aimed at helping learners understand core programming concepts through hands-on practice.Each program is simple, well-structured, and focuses on one concept at a time, making revision easy and effective.
 
-**1.Basic Python Programs**
+__**1.Basic Python Programs**__
 
 **1️⃣ Add Two Numbers (Add_Two_Number.py)**
    
