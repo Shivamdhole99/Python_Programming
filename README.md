@@ -20,10 +20,10 @@ This repository contains Python programs from beginner to advanced level, aimed 
 2️⃣ Even or Odd (Even_Odd.py)
 
 ➤ Concepts Used:
-
-    ● Modulus operator (%)
+     
+   ● Modulus operator (%)
    
-    ● Conditional statements (if-else)
+   ● Conditional statements (if-else)
    
 ➤ Description:
    
