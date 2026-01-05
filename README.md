@@ -4,12 +4,12 @@ This repository contains Python programs from beginner to advanced level, aimed 
 1.Basic Python Programs
 
 1️⃣ Add Two Numbers (Add_Two_Number.py)
-➤ Concepts Used:
-   ● Variables
-   ● Integer data type
-   ● Input and output
-➤ Description:
-   This program takes two integer values from the user using input(), converts them into integers using int(), and calculates their sum. The result is displayed using the print() function.
+   ➤ Concepts Used:
+      ● Variables
+      ● Integer data type
+      ● Input and output
+   ➤ Description:
+      This program takes two integer values from the user using input(), converts them into integers using int(), and calculates their sum. The result is displayed using the print() function.
 
 2️⃣ Even or Odd (Even_Odd.py)
 ➤ Concepts Used:
