@@ -1,5 +1,4 @@
-**<h1><b><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/33959294-e6ea-42ab-b9c6-5b36cc8f48e3" />
- Python – Basics to Advanced</b></h1>**
+**<h1><b>![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54) Python – Basics to Advanced</b></h1>**
 
 This repository contains Python programs from beginner to advanced level, aimed at helping learners understand core programming concepts through hands-on practice.Each program is simple, well-structured, and focuses on one concept at a time, making revision easy and effective.
 
