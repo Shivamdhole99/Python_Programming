@@ -4,125 +4,100 @@ This repository contains Python programs from beginner to advanced level, aimed 
 
 **<ins><h2><b>1.Basic Python Programs</b></h2></ins>**
 
-**<h3>1️⃣ Add Two Numbers (Add_Two_Number.py)</h3>**
+**<h3>1️⃣ Add Two Numbers</h3>**
    
 ➤ Concepts Used:
       Variables,
       Integer data type,
       Input and output.
   
-**<h3>2️⃣ Even or Odd (Even_Odd.py)</h3>**
+**<h3>2️⃣ Even or Odd</h3>**
 
 ➤ Concepts Used:
    Modulus operator (%),
    Conditional statements (if-else).
    
-**<h3>3️⃣ Factorial of a Number (Factorial.py)</h3>**
+**<h3>3️⃣ Factorial of a Number</h3>**
 
 ➤ Concepts Used:
    Loops (for),
    Multiplication,
    Variables.
 
-**<h3>4️⃣ Largest of Three Numbers (Largest_of_Three_Numbers.py)</h3>**
+**<h3>4️⃣ Largest of Three Numbers</h3>**
 
 ➤ Concepts Used:
    User input,
    Built-in function max().
 
-**<h3>5️⃣ Prime Number Check (Prime.py)</h3>**
+**<h3>5️⃣ Prime Number Check </h3>**
 
 ➤ Concepts Used:
     Loops,
     Conditional statements,
     break and else with loops.
 
-**<h3>6️⃣ Reverse a Number (Reverse.py)</h3>**
+**<h3>6️⃣ Reverse a Number</h3>**
 
 ➤ Concepts Used:
-
-    ● While loop
-   
-    ● Modulus (%)
-   
-    ● Integer division (//)
+   While loop,
+   Modulus (%),
+   Integer division (//).
 
 **<h3>7️⃣ Print Numbers from 1 to 100 (Print1-100.py)</h3>**
 
 ➤ Concepts Used:
-
-    ● For loop
-   
-    ● range() function
+   For loop,
+   range() function.
 
 **<h2>2.Intermediate Python Programs</h2>**
 
 **<h3>1️⃣ Fibonacci Series (Fibonacci_Series.py)</h3>**
 
 ➤ Concepts Used:
-
-    ● Loops (for)
-
-    ● Variable assignment
-
-    ● Sequence generation
+   Loops (for),
+   Variable assignment,
+   Sequence generation.
 
 **<h3>2️⃣ Palindrome String (Palindrome_String.py)</h3>**
 
 ➤ Concepts Used:
-
-    ● Strings
-
-    ● String slicing
-
-    ● Conditional statements
+    Strings,
+    String slicing,
+    Conditional statements.
 
 **<h3>3️⃣ Armstrong Number (Armstrong_Number.py)</h3>**
 
 ➤ Concepts Used:
-
-    ● While loop
-
-    ● Arithmetic operators
-
-    ● Integer manipulation
+   While loop,
+   Arithmetic operators,
+    Integer manipulation.
 
 **<h3>4️⃣ Count Vowels in a String (Count_Vowels.py)</h3>**
 
 ➤ Concepts Used:
-
-    ● Strings
-
-    ● Loops
-
-    ● Conditional checking
+     Strings,
+    Loops,
+    Conditional checking.
 
 **<h3>5️⃣ Remove Duplicates from a List (Remove_Duplicates.py)</h3>**
 
 ➤ Concepts Used:
-
-    ● Lists
-
-    ● Sets
-
-    ● Type conversion
+   Lists,
+   Sets,
+   Type conversion.
 
 **<h3>6️⃣ Linear Search (Linear_Search.py)</h3>**
 
 ➤ Concepts Used:
-
-    ● Lists
-
-    ● Loops
-
-    ● Conditional statements
+     Lists,
+     Loops,
+     Conditional statements.
 
 **<h3>7️⃣ Bubble Sort (Bubble_Sort.py)</h3>**
 
 ➤ Concepts Used:
-
-    ● Nested loops
-
-    ● List manipulation
-
-    ● Swapping elements
+    Nested loops,
+     List manipulation,
+     Swapping elements.
+     
