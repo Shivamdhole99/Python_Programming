@@ -7,12 +7,9 @@ This repository contains Python programs from beginner to advanced level, aimed 
 **<h3>1️⃣ Add Two Numbers (Add_Two_Number.py)</h3>**
    
 ➤ Concepts Used:
-     
-    ● Variables
-      
-    ● Integer data type
-      
-    ● Input and output
+      Variables
+      Integer data type
+      Input and output
   
 **<h3>2️⃣ Even or Odd (Even_Odd.py)</h3>**
 
