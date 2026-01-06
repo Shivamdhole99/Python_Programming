@@ -1,4 +1,5 @@
-**<h1><b>🐍 Python – Basics to Advanced</b></h1>**
+**<h1><b><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/33959294-e6ea-42ab-b9c6-5b36cc8f48e3" />
+ Python – Basics to Advanced</b></h1>**
 
 This repository contains Python programs from beginner to advanced level, aimed at helping learners understand core programming concepts through hands-on practice.Each program is simple, well-structured, and focuses on one concept at a time, making revision easy and effective.
 
@@ -22,11 +23,6 @@ This repository contains Python programs from beginner to advanced level, aimed 
    
     ● Conditional statements (if-else)
    
-➤ Description:
-   
-   The program checks whether a given number is even or odd by dividing it by 2.
-   If the remainder is 0, the number is even; otherwise, it is odd.
-
 **<h3>3️⃣ Factorial of a Number (Factorial.py)</h3>**
 
 ➤ Concepts Used:
@@ -36,11 +32,6 @@ This repository contains Python programs from beginner to advanced level, aimed 
     ● Multiplication
    
     ● Variables
-
-➤ Description:
-
-   This program calculates the factorial of a given number.
-   The factorial is computed by multiplying all positive integers from 1 to the given number.
 
 ➤ Example:
 
@@ -54,10 +45,6 @@ This repository contains Python programs from beginner to advanced level, aimed 
    
     ● Built-in function max()
 
-➤ Description:
-
-   The program takes three numbers from the user and determines the largest number using Python’s built-in max() function.
-
 **<h3>5️⃣ Prime Number Check (Prime.py)</h3>**
 
 ➤ Concepts Used:
@@ -67,13 +54,6 @@ This repository contains Python programs from beginner to advanced level, aimed 
     ● Conditional statements
    
     ● break and else with loops
-
-➤ Description:
-
-   This program checks whether a number is prime.
-   A number is prime if it is greater than 1 and divisible only by 1 and itself.
-   The program tests divisibility from 2 to n-1.
-   If any divisor is found, the number is not prime.
 
 **<h3>6️⃣ Reverse a Number (Reverse.py)</h3>**
 
@@ -85,16 +65,6 @@ This repository contains Python programs from beginner to advanced level, aimed 
    
     ● Integer division (//)
 
-➤ Description:
-
-   The program reverses a given number by extracting digits one by one and constructing the reversed number.
-
-➤ Example:
-   
-   Input: 1234
-   
-   Output: 4321
-
 **<h3>7️⃣ Print Numbers from 1 to 100 (Print1-100.py)</h3>**
 
 ➤ Concepts Used:
@@ -102,10 +72,6 @@ This repository contains Python programs from beginner to advanced level, aimed 
     ● For loop
    
     ● range() function
-
-➤ Description:
-  
-   This program prints numbers from 1 to 100 using a for loop.
 
 **<h2>2.Intermediate Python Programs</h2>**
 
@@ -119,11 +85,6 @@ This repository contains Python programs from beginner to advanced level, aimed 
 
     ● Sequence generation
 
-➤ Description:
-
-This program generates a Fibonacci series up to a given number of terms.
-It starts with two initial values (0 and 1), and each next number is the sum of the previous two numbers.
-
 **<h3>2️⃣ Palindrome String (Palindrome_String.py)</h3>**
 
 ➤ Concepts Used:
@@ -133,10 +94,6 @@ It starts with two initial values (0 and 1), and each next number is the sum of 
     ● String slicing
 
     ● Conditional statements
-
-➤ Description:
-
-The program checks whether a given string is a palindrome by reversing the string using slicing ([::-1]) and comparing it with the original string.
 
 **<h3>3️⃣ Armstrong Number (Armstrong_Number.py)</h3>**
 
@@ -148,12 +105,6 @@ The program checks whether a given string is a palindrome by reversing the strin
 
     ● Integer manipulation
 
-➤ Description:
-
-This program checks whether a number is an Armstrong number.
-Each digit of the number is raised to the power of the number of digits and summed.
-If the sum equals the original number, it is an Armstrong number.
-
 **<h3>4️⃣ Count Vowels in a String (Count_Vowels.py)</h3>**
 
 ➤ Concepts Used:
@@ -163,10 +114,6 @@ If the sum equals the original number, it is an Armstrong number.
     ● Loops
 
     ● Conditional checking
-
-➤ Description:
-
-The program iterates through each character of a string and counts how many vowels (a, e, i, o, u) are present.
 
 **<h3>5️⃣ Remove Duplicates from a List (Remove_Duplicates.py)</h3>**
 
@@ -178,10 +125,6 @@ The program iterates through each character of a string and counts how many vowe
 
     ● Type conversion
 
-➤ Description:
-
-This program removes duplicate elements from a list by converting the list into a set and then back into a list.
-
 **<h3>6️⃣ Linear Search (Linear_Search.py)</h3>**
 
 ➤ Concepts Used:
@@ -192,12 +135,6 @@ This program removes duplicate elements from a list by converting the list into 
 
     ● Conditional statements
 
-➤ Description:
-
-The program searches for a given element in a list by checking each element one by one.
-If the element is found, it prints a success message.
-
-
 **<h3>7️⃣ Bubble Sort (Bubble_Sort.py)</h3>**
 
 ➤ Concepts Used:
@@ -207,7 +144,3 @@ If the element is found, it prints a success message.
     ● List manipulation
 
     ● Swapping elements
-
-➤ Description:
-
-This program sorts a list of numbers using the Bubble Sort algorithm by repeatedly swapping adjacent elements if they are in the wrong order.
