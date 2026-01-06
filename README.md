@@ -37,54 +37,56 @@ This repository contains Python programs from beginner to advanced level, aimed 
 
 **<h2>2.Intermediate Python Programs</h2>**
 
-➤ Fibonacci Series </h3>**
-
-➤ Concepts Used:
+➤ Fibonacci Series:
    Loops (for),
    Variable assignment,
    Sequence generation.
 
-**<h3>2️⃣ Palindrome String</h3>**
-
-➤ Concepts Used:
+➤ Palindrome String:
     Strings,
     String slicing,
     Conditional statements.
 
-**<h3>3️⃣ Armstrong Number </h3>**
-
-➤ Concepts Used:
+➤ Armstrong Number:
    While loop,
    Arithmetic operators,
-    Integer manipulation.
+   Integer manipulation.
 
-**<h3>4️⃣ Count Vowels in a String </h3>**
-
-➤ Concepts Used:
+➤ Count Vowels in a String:
      Strings,
     Loops,
     Conditional checking.
-
-**<h3>5️⃣ Remove Duplicates from a List </h3>**
-
-➤ Concepts Used:
+    
+➤ Remove Duplicates from a List:
    Lists,
    Sets,
    Type conversion.
 
-**<h3>6️⃣ Linear Search</h3>**
-
-➤ Concepts Used:
+➤ Linear Search:
      Lists,
      Loops,
      Conditional statements.
 
-**<h3>7️⃣ Bubble Sort</h3>**
+➤ Bubble Sort:
     Nested loops,
      List manipulation,
      Swapping elements.
      
-**<h3>7️⃣ Data Structures</h3>**
+➤ List Methos:
+   List data structure,
+   List methods (append(), insert(), pop(), remove(), reverse(), sort()).
+
+➤ Tuple Operations:
+   List data structure,
+   Tuple methods (count(), index()).        
+
+➤ Set Operations:      
+   Set methods (add(), remove(), discard()),
+   Set operations (intersection(), union(), difference()).
+   
+➤ Dictionary Operations:
+   Key–value pairs,
+   Dictionary methods (get(), keys(), values(), items(), update(), pop()).
 
      
      
