@@ -21,29 +21,23 @@ This repository contains Python programs from beginner to advanced level, aimed 
    User input,
    Built-in function max().
 
-**<h3>5️⃣ Prime Number Check </h3>**
-
-➤ Concepts Used:
+➤ Prime Number Check:
     Loops,
     Conditional statements,
     break and else with loops.
 
-**<h3>6️⃣ Reverse a Number</h3>**
-
-➤ Concepts Used:
+➤ Reverse a Number:
    While loop,
    Modulus (%),
    Integer division (//).
 
-**<h3>7️⃣ Print Numbers from 1 to 100 </h3>**
-
-➤ Concepts Used:
+➤ Print Numbers from 1 to 100:
    For loop,
    range() function.
 
 **<h2>2.Intermediate Python Programs</h2>**
 
-**<h3>1️⃣ Fibonacci Series </h3>**
+➤ Fibonacci Series </h3>**
 
 ➤ Concepts Used:
    Loops (for),
