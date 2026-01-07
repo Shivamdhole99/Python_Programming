@@ -88,5 +88,33 @@ Set methods (add(), remove(), discard()),
    Key–value pairs,
    Dictionary methods (get(), keys(), values(), items(), update(), pop()).
 
+**<h2>3.Advanced Python Programs</h2>**
+
+➤ File Handling – Read & Write:
+    File handling,
+    open(), read(), write().
+
+➤ Object-Oriented Programming – Class & Object:
+   Classes and objects,
+   Constructor (__init__),
+   Methods.
+
+➤ Inheritance:
+   Inheritance,
+   Method calling.
+
+➤ Exception Handling:
+   try, except, else, finally.
      
-     
+➤ Lambda Function:
+   Lambda expressions,
+   Functional programming.
+
+➤ Decorator:
+   Functions as arguments,
+   Nested functions,
+   Decorators.
+
+➤ Multithreading:
+   Threading module,
+   Parallel execution.
